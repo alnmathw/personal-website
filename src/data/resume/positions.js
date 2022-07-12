@@ -30,7 +30,7 @@ const positions = [
       'Recommended short-term trading opportunities on the NASDAQ, NYSE, and LSE stock exchanges to my portfolio manager and CIO using fundamental analysis and technical analysis, generating a 40% increase in profits from my ideas.',
       'Executed trades through multiple channels including electronic execution platforms (e.g., Bloomberg)',
       'Monitored positions daily for opportunities to adjust exposure based on changing market conditions and updated investor reports regularly regarding performance statistics and portfolio holdings.',
-      'Provided analytical support to other members of the Investment Team by developing new trading strategies, analyzing existing portfolios, conducting research related to specific industries or companies, etc'
+      'Provided analytical support to other members of the Investment Team by developing new trading strategies, analyzing existing portfolios, conducting research related to specific industries or companies, etc.'
       
     ],
   },

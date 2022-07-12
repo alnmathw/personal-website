@@ -1,55 +1,26 @@
 
 # Intro
 
-I am an undergraduate student studying computer science in Singapore. I enjoy developing frontend and backend software and I am always trying my best to learn new things to improve my skills. Before being interested in software engineering, I was very interested in finance and interned at Kredens Capital and Singular Asset Management doing equity research. 
+Hi! I am an undergraduate student studying computer science in Singapore and I enjoy developing fullstack applications. My favorite languages to code in are OCaml, C++ and Python. Lately, I have also been getting into developing applications in VueJS and Kotlin. 
 
-Aside from school, I spend my time leading equity research groups at Dragonfly HK. I enjoy sharing knowledge with others, especially about software development and equity research. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am also very interested in finance and the financial markets. I used to work at Kredens Capital Management and Singular Asset Management where I recommended trading ideas to my portfolio manager and the Chief Investment Officer. I also had the chance to interact with our brokers and speak with clients. I learned a lot from my employers there.  
 
+For extracurriculars, I am very invested leading the equity research division in Dragonfly, a Hong Kong based student finance club. There, I teach members basic accounting and stock analysis. Our members come from everywhere, including HKU, CUHK, LSE, U Penn and Cornell. If you would like to join our group, please feel free to send me an email! 
+
+In my free time, I enjoy reading books, watching comedy and playing Dota2. Two books that I believe everybody should read are [A Cofession by Leon Tolstoy][AConfession] and [Man's Search for Meaning by Viktor Frankl][ViktorFrankl]. Some of my favorite shows are Family Guy and One Piece. I also have about 7000+ hours of gameplay playing Dota2.
+[AConfession]: https://www.amazon.com/Confession-Leo-Tolstoy/dp/1548397539
+[ViktorFrankl]: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X 
 # Currently
 
-At university, I mostly take math and computer science classes. However, I have also taught myself accounting and economics. 
+At university, I mostly take math and computer science classes. However, I have also taught myself some accounting and economics using free books online. 
+# Sports
 
-# Some history
+- I have been swimming since I was 3 years old. 
+- I enjoy hiking and camping.
+- I have recently gotten into archery thanks to my colleagues from Investree.
 
-- At 15, I almost became a professional Dota2 player. 
+# Fun Facts
 
-- At 16, I attended a summer camp in Chiba, Japan, for two weeks by the Gakko Project. It was a transformative experience for me. 
-
-- At 17, I travelled abroad and lived independently in Hong Kong to finish my highschool education at Li Po Chun UWC. 
-
-- At 18, I travelled and volunteered at Yern Jas, Cambodia. My friends and I raised around US$16,455 to build schools and replenish school supplies in rural Cambodia. 
-
-Ask me in person for other stories that I'm afraid to share with the internet.
-
-# I like
-
-- Running
-- Hiking
-- Swimming
-- Archery
-- Reading
-
-# Travel / Geography
-
-- I am from originally from Cirebon, Indonesia. I have since lived in Hong Kong and Singapore.
-- I've been to ~ 8 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2015, I visited: Wisconsin, United States.  
-- In 2017, I visited: Japan and Australia.
-- In 2018, I visited: Hong Kong. 
-- In 2019, I visited: China and Cambodia.
-- In 2020, I visited: Singapore.
-
-# Fun facts
-
-- I enjoy reading One Piece.
-- I have watched every sitcom except modern family and friends. 
-- I am a Dota2 player with a very positive mental attitude.
-- I used to be addicted to Minecraft.
-- I was very noob at MapleStory. 
-
-# I dream of
-
-- learning to my maximum potential.
-- building my own boarding school in Indonesia. 
-- starting a scholarship fund for highschool students in Indonesia. 
-
+- I was born in Indonesia.
+- I have been living independently since I was 16 years old. 
+- My motto: "Be good, work hard and great things will happen."

@@ -14,7 +14,7 @@ const positions = [
     company: 'Singular Asset Management',
     position: 'Equity Analyst',
     link: 'https://singular.com.my/',
-    daterange: 'Sep 2021 - Dec 2022',
+    daterange: 'Sep 2021 - Dec 2021',
     points: [
       'Recommended long-term trading opportunities on the Indonesian stock exchange to my portfolio manager and CIO, with the goal of delivering attractive risk-adjusted returns to investors.',
       'Performed company analysis, industry research and competitor analysis to identify trends in the industry.',

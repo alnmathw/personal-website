@@ -11,10 +11,10 @@
     "node": ">=14.x"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "build": "rimraf ./build && react-scripts build",
+    "predeploy": "npm run build && react-snap",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "lint": "eslint $(git ls-files '*.js')",
     "test": "react-scripts test --watchAll=false",
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js"

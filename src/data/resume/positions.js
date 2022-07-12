@@ -5,9 +5,9 @@ const positions = [
     link: 'https://investree.id/',
     daterange: 'March 2022 - Present',
     points: [
-      'Built RESTful APIs that served data to the JavaScript front-end based on dynamically chosen user inputs that handled over 500,000 users using Kotlin.',
-      'Worked on building new Vuejs components for the customer-facing web app, which improved by 2 minutes.',
-      'Built extensive test coverage for new features and existing components using Jest, which reduced the number of customer complaints by 23%.'
+      'Designed and implemented new features using VueJS to visualize data stored from APIs, decreasing the time needed by users to find important information about their investments.',
+      'Designed and deployed RESTful APIs that served data to the front-end based on dynamically chosen user inputs that handled over 100,000 users using Kotlin.',
+      'Created extensive unit tests using Jest to ensure >80% code coverage for existing components and my newly released features, reducing bug reports from users by 32%.'
     ],
   },
   {
@@ -17,7 +17,7 @@ const positions = [
     daterange: 'November 2021 - January 2022',
     points: [
       'Recommended long-term trading opportunities on the Indonesian stock exchange to my portfolio manager and CIO.',
-      'Performed company analysis, industry research, competitor analysis, and DCF modelling on target companies for internal research.',
+      'Performed company analysis, industry research, competitor analysis, and DCF modelling on target companies for internal research and client presentation.',
     ],
   },
   {
@@ -26,7 +26,7 @@ const positions = [
     link: 'https://kredenscapital.com/',
     daterange: 'March 2021 - July 2021',
     points: [
-      'Recommended short-term trading opportunities on US/UK/EU stock exchanges to my portfolio manager and CIO.',
+      'Recommended short-term trading opportunities on the NASDAQ, NYSE, and LSE stock exchanges to my portfolio manager and CIO.',
       'Performed company analysis, industry research, competitor analysis, and DCF modelling on target companies for internal research and client presentations.',
     ],
   },

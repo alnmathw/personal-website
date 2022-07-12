@@ -15,13 +15,13 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'Vuejs',
+    title: 'VueJS',
     competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Languages'],
   },
   {
@@ -56,7 +56,7 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -76,7 +76,7 @@ const skills = [
   },
   {
     title: 'R',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
